@@ -8,23 +8,7 @@ Passionate about leveraging data to drive strategic decision-making, I am a dedi
 
 ## Repository Highlights
 
-### Project 1: Sales Performance Dashboard
 
-Explore a dynamic dashboard that visualizes sales performance metrics using interactive charts and graphs. The dashboard provides real-time insights into revenue trends, top-selling products, and regional distribution.
-
-![Sales Performance Dashboard](/images/sales_dashboard.png)
-
-### Project 2: Social Media Sentiment Analysis
-
-Dive into a sentiment analysis project where I analyze social media data to understand public sentiment towards a specific topic. The visualizations showcase sentiment trends over time and sentiment distribution across different platforms.
-
-![Sentiment Analysis](/images/sentiment_analysis.png)
-
-### Project 3: Geographic Heatmaps
-
-Discover visually striking heatmaps that illustrate geographical trends and patterns. These maps effectively display data variations across regions, providing a quick and intuitive understanding of the information.
-
-![Geographic Heatmap](/images/heatmap.png)
 
 ## Technologies Used
 
